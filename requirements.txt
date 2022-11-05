@@ -1,0 +1,6 @@
+numpy>=1.19.1
+pytest
+tox
+black
+flake8
+mypy
